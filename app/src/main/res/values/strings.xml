@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AA_SimonGame</string>
+
+    <!--colors for random picker-->
+    <string name="random_yellow">YELLOW</string>
+    <string name="random_green">GREEN</string>
+    <string name="random_blue">BLUE</string>
+    <string name="random_red">RED</string>
+
+    <string name="rules">1. Simon will give the first signal. Observe the color thank flashes and repeat by tapping the color.
+
+    \n 2. Simon will duplicate the first signal and add one new color. Repeat the two signals by pressing the same colors in order.
+
+    \n 3. Simon will duplicate the first two signals and add one.
+
+    \n 4. Continue playing for as long as you remember the sequence of colors correctly.
+
+    \n 5. If you fail to repeat the signals correctly, your game will be over.</string>
+
+
+
+</resources>
